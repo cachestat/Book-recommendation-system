@@ -12,7 +12,7 @@ A simple book recommendation system built using collaborative filtering on the *
 
 Run the notebooks in this order:
 
-1. `01_eda.ipynb`
+1. `01_pra.ipynb`
 2. `02_data_cleaning.ipynb`
 3. `03_model_building.ipynb`
 
